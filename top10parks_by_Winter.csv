@@ -1,0 +1,51 @@
+Park,Date of Review,Rating,Total Number of Reviews,Aggregate,"State,USA only ",Country,Age,Gender (M or F),Relationship (Couple or Single),Occupation,Top Activity,Season
+"Arches National Park, Utah","Dec 10,2017",2,36,4.9,Georgia,USA,11,M,Married,494776,Delicate Arch Visit,winter
+"Arches National Park, Utah","Feb 26,2017",2,36,4.9,Tennesse,USA,6,M,Married,457545,Delicate Arch Visit,winter
+"Arches National Park, Utah","Ja 23,2017",2,36,4.9,Virginia,USA,29,F,Married,132621,Delicate Arch Visit,winter
+"Arches National Park, Utah","Dec 3,2017",2,15,4.9,New York,USA,63,M,Single,138321,Delicate Arch Visit,winter
+"Arches National Park, Utah","Jan 23,2017",2,15,4.9,Idaho,USA,38,M,Single,467195,Delicate Arch Visit,winter
+"Mount Rainier Natioanl Park, Washington","Dec 29,2017",5,27,4.9,Minnesota,USA,8,M,Married,498794,Mount Rainier,winter
+"Mount Rainier Natioanl Park, Washington","Dec 7,2017",5,27,4.9,Iowa,USA,17,F,Married,418737,Mount Rainier,winter
+"Mount Rainier Natioanl Park, Washington","Feb 26,2017",5,27,4.9,Oregon,USA,3,F,Married,76445,Mount Rainier,winter
+"Mount Rainier Natioanl Park, Washington","Jan 15,2017",5,10,4.9,Florida,USA,79,M,Single,395823,Mount Rainier,winter
+"Mount Rainier Natioanl Park, Washington","Jan 5,2017",5,27,4.9,Massachusetts,USA,64,M,Married,396159,Mount Rainier,winter
+"Bryce Canyon National Park, Utah","Dec 26,2017",5,153,4.9,New jersey,USA,30,F,Married,203736,Bryce Canyon National Park,winter
+"Bryce Canyon National Park, Utah","Dec 26,2017",5,153,4.9,Texas,USA,30,M,Married,275290,Bryce Canyon National Park,winter
+"Bryce Canyon National Park, Utah","Dec 17,2017",5,153,4.9,Missouri,USA,45,F,Married,452638,Bryce Canyon National Park,winter
+"Bryce Canyon National Park, Utah","Dec 23,2017",5,21,4.9,pennsylvenia,USA,58,M,Single,178474,Bryce Canyon National Park,winter
+"Bryce Canyon National Park, Utah","Feb 15,2017",5,21,4.9,Florida,USA,12,F,Single,430654,Bryce Canyon National Park,winter
+"Yosemite National Park, California","Dec 17,2017",2,66,4.9,California,USA,59,M,Married,274108,Glacier Point,winter
+"Yosemite National Park, California","Feb 15,2017",2,66,4.9,Michigan,USA,81,M,Married,87165,Glacier Point,winter
+"Yosemite National Park, California","Jan 14,2017",2,66,4.9,California,USA,44,M,Married,237117,Glacier Point,winter
+"Yosemite National Park, California","jan 11,2017",2,14,4.9,Utah,USA,63,F,Single,107574,Glacier Point,winter
+"Yosemite National Park, California","Jan 4,2017",2,14,4.9,oregon,USA,9,F,Single,215582,Glacier Point,winter
+"Denali National Park, Alaska","Dec 31,2017",5,27,4.9,Tennesse,USA,71,M,Married,57914,Denali,winter
+"Denali National Park, Alaska","Dec 16,2017",5,27,4.9,Minnesota,USA,10,M,Married,480712,Denali,winter
+"Denali National Park, Alaska","Feb 13,2017",5,27,4.9,North Carolina,USA,21,F,Married,407586,Denali,winter
+"Denali National Park, Alaska","Jan 21,2017",5,27,4.9,Michigan,USA,5,F,Married,148228,Denali,winter
+"Denali National Park, Alaska","Jan 7,2017",5,27,4.9,Texas,USA,64,M,Married,421048,Denali,winter
+"Grand Canyon National Park, Arizona","Dec 30,2017",5,833,4.9,Texas,USA,43,M,Married,289272,Grand Canyon South Rim,winter
+"Grand Canyon National Park, Arizona","Dec 27,2017",5,833,4.9,Illinois,USA,22,M,Married,185618,Grand Canyon South Rim,winter
+"Grand Canyon National Park, Arizona","Dec 26,2017",5,833,4.9,Florida,USA,69,F,Married,232514,Grand Canyon South Rim,winter
+"Grand Canyon National Park, Arizona","Dec 10,2017",5,96,4.9,Florida,USA,15,F,Single,347434,Grand Canyon South Rim,winter
+"Grand Canyon National Park, Arizona","Dec 4,2017",5,96,4.9,Utah,USA,27,M,Single,323765,Grand Canyon South Rim,winter
+"Yellowstone National Park, Wyoming","Dec 18,2017",2,15,4.9,New York,USA,38,M,Married,103907,Grand Canyon of the yellowstone ,winter
+"Yellowstone National Park, Wyoming","Feb 15,2017",2,86,4.9,Oregon,USA,34,F,Married,184566,Grand Canyon of the yellowstone ,winter
+"Yellowstone National Park, Wyoming","Jan 26,2017",2,16,4.9,california,USA,28,M,Married,477975,Grand Canyon of the yellowstone ,winter
+"Yellowstone National Park, Wyoming","Feb 23,2017",2,9,4.9,Idaho,USA,93,M,Single,306312,Grand Canyon of the yellowstone ,winter
+"Yellowstone National Park, Wyoming","Feb 15,2017",2,86,4.9,New York,USA,97,F,Married,206876,Grand Canyon of the yellowstone ,winter
+"Rocky Mountain National Park, Colorado","Dec 17,2017",5,34,4.9,Michigan,USA,30,F,Married,399116,Trail Ridge Road,winter
+"Rocky Mountain National Park, Colorado","Feb 13,2017",5,34,4.9,Minnesota,USA,28,F,Married,113495,Trail Ridge Road,winter
+"Rocky Mountain National Park, Colorado","Jan 4,2017",5,34,4.9,Florida,USA,1,F,Married,399445,Trail Ridge Road,winter
+"Rocky Mountain National Park, Colorado","Feb 14,2017",5,5,4.9,Colorado,USA,26,M,Single,179744,Trail Ridge Road,winter
+"Rocky Mountain National Park, Colorado","Jan 1,2017",5,34,4.9,california,USA,66,F,Married,297285,Trail Ridge Road,winter
+"Lassen Volcanic National Park, California","Feb 20,2017",5,5,4.9,ohio,USA,57,M,Single,469391,Mount Lassen,winter
+"Lassen Volcanic National Park, California","Dec 24,20155",5,5,4.99,California,USA,25,F,Single,145027,Mount Lassen,winter
+"Lassen Volcanic National Park, California","Dec 24,2014",5,5,4.99,California,USA,7,F,Single,274779,Mount Lassen,winter
+"Lassen Volcanic National Park, California","Feb 22,2014",3,5,2.99,Texas,USA,3,M,Single,184799,Mount Lassen,winter
+"Lassen Volcanic National Park, California","Feb 14,2014",5,5,4.99,California,USA,64,M,Single,377814,Mount Lassen,winter
+Zion National Park,"Feb 20,2016",5,41,4.99,North Carolina,USA,50,F,Married,455531,Zion's Main Canyon ,winter
+Zion National Park,"Feb 10,2016",5,41,4.99,California,USA,56,F,Married,140679,Zion's Main Canyon ,winter
+Zion National Park,Dec 12.2017,5,12,4.99,California,USA,38,F,Single,477426,Zion's Main Canyon ,winter
+Zion National Park,"Feb 6,2016",5,12,4.99,Arizona,USA,38,M,Single,494663,Zion's Main Canyon ,winter
+Zion National Park,"Feb 10,2018",5,12,4.99,Utah,USA,95,F,Single,466331,Zion's Main Canyon ,winter

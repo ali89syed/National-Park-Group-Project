@@ -1,0 +1,26 @@
+,Park,State,Spring,Summer,Fall,Winter, State_p,Population
+0,Acadia,Maine,54212,264288,157764,491360,Maine,1336000
+1,Apostle Islands,Wisconsin,5779,24752,12170,45540,Virginia,8175000
+2,Arches,Utah,172387,202429,151742,569658,Ohio,11469000
+3,Big Bend,Texas,56583,21896,35669,155748,Texas,27677000
+4,Bryce Canyon,Utah,158701,245418,177327,623241,Colorado,5509000
+5,Capitol Reef,Utah,270641,259080,217466,786764,Arizona,6890000
+6,Crater Lake,Oregon,24468,201731,54512,285594,Wyoming,572000
+7,Death Valley,California,99269,124506,107237,410848,California,39500000
+8,Grand Canyon,Arizona,537160,657787,501213,1967482,Washington,7406000
+9,Grand Teton,Wyoming,484160,1642717,762411,3207493,Alaska,739795
+10,Great Smoky Mountains,Tennessee,2727294,3534925,4539863,13876483,North Carolina,10270000
+11,Guadalupe Mountains,Texas,36588,18826,21687,98732,Utah,3102000
+12,Joshua Tree,California,275422,107437,178859,782167,Oregon,4143000
+13,Kenai Fjords,Alaska,4806,44912,8076,57794,Wisconsin,5795000
+14,Kings Canyon,California,48458,121431,62998,254443,Kentucky,4454000
+15,Lassen Volcanic,California,17630,119634,54710,200658,dummy,0
+16,Mount Rainier,Washington,85301,539982,231668,889046,dummy,0
+17,Olympic,Washington,280318,557783,257392,1219445,dummy,0
+18,Rocky Mountain,Colorado,182488,763554,404973,1441294,dummy,0
+19,Saguaro,Arizona,888437,745084,778869,3317359,dummy,0
+20,Sequoia,California,102948,200704,104590,454829,dummy,0
+21,Shenandoah,Virginia,133008,216878,217344,610768,dummy,0
+22,Yellowstone,Wyoming,405543,1500447,590027,2656437,dummy,0
+23,Yosemite,California,395534,800951,520111,1888971,dummy,0
+24,Zion,Utah,463766,482898,402714,1534932,dummy,0
